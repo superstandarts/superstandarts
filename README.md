@@ -7,7 +7,7 @@
 -->
 
 <a href="https://i.pinimg.com/736x/e2/1f/4c/e21f4c4564f11e10fa6d8a7536674883.jpg">
-  <img src="https://chatgpt.com/s/m_6a1afc5a87d48191ab4d04c4208037d9" alt="Zen's GitHub" width="100%">
+  <img src="[https://chatgpt.com/s/m_6a1afc5a87d48191ab4d04c4208037d9](https://i.pinimg.com/736x/e2/1f/4c/e21f4c4564f11e10fa6d8a7536674883.jpg)" alt="Zen's GitHub" width="100%">
 </a>
 
 <br><br>

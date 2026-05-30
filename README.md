@@ -91,6 +91,7 @@ Most of my projects are made for learning, testing ideas and building a better G
 | Project | Description |
 | --- | --- |
 | [crx-OS](https://github.com/superstandarts/crx-OS) | Hacker simulator / terminal visual experiment |
+| [ZEN MENU](https://github.com/superstandarts/ZEN-ULTIMATE-MENU) | Toolkit, Zen menu with a lot of tools |
 | More soon... | New scripts, tools and experiments coming soon |
 
 ---

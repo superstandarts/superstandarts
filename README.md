@@ -6,8 +6,8 @@
   Example: github.com/superstandarts/superstandarts
 -->
 
-<a href="https://i.pinimg.com/736x/e2/1f/4c/e21f4c4564f11e10fa6d8a7536674883.jpg">
-  <img src="https://i.pinimg.com/736x/e2/1f/4c/e21f4c4564f11e10fa6d8a7536674883.jpg" alt="Zen's GitHub" width="100%">
+<a href="https://i.pinimg.com/736x/31/36/64/3136641c2da149e731c6675a14f0faa4.jpg">
+  <img src="https://i.pinimg.com/736x/31/36/64/3136641c2da149e731c6675a14f0faa4.jpg" alt="Zen's GitHub" width="100%">
 </a>
 
 <br><br>

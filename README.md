@@ -109,30 +109,6 @@ Most of my projects are made for learning, testing ideas and building a better G
 
 ---
 
-## 🗂️ Repository Style
-
-```txt
-root/
-├─ assets/
-├─ src/
-├─ README.md
-└─ project files
-```
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/superstandarts/superstandarts/output/snake.svg" alt="Snake animation">
-
-</div>
-
----
-
-<div align="center">
-
 ```txt
 SYSTEM STATUS: ONLINE
 RECORDING: TRUE

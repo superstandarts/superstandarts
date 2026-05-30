@@ -138,7 +138,7 @@ windows utilities
 
 ---
 
-# `> aesthetic`
+# `> looks`
 
 <div align="center">
 
@@ -156,18 +156,6 @@ cyber interface
 old internet feeling
 futuristic windows tools
 ```
-
----
-
-# `> github_stats`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=superstandarts&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superstandarts&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff">
-
-</div>
 
 ---
 

@@ -10,12 +10,6 @@
   <img src="https://i.pinimg.com/736x/31/36/64/3136641c2da149e731c6675a14f0faa4.jpg" alt="Zen's GitHub" width="100%">
 </a>
 
-<br><br>
-
-<img src="https://i.pinimg.com/originals/48/3d/64/483d64fd9bd864adce791c2ab52769b9.gif" width="100%" alt="Black hole animation">
-
-<br><br>
-
 # `ZEN'S GITHUB`
 
 ```txt

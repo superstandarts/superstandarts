@@ -97,20 +97,6 @@ Most of my projects are made for learning, testing ideas and building a better G
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=superstandarts&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000">
-
-<br><br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superstandarts&layout=compact&theme=dark&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=000000">
-
-</div>
-
----
-
 ## 🧪 Current Focus
 
 ```txt

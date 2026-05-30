@@ -1,125 +1,252 @@
 <div align="center">
 
-<br>
+<!--
+  ZEN / CRX GitHub Profile README
+  Put this file as README.md in a repository with the same name as your GitHub username.
+  Example: github.com/superstandarts/superstandarts
+-->
 
-<img src="https://i.pinimg.com/originals/fc/16/87/fc1687241e0c4bf3d58f95f33d752635.gif" width="520">
+<a href="https://chatgpt.com/s/m_6a1afc5a87d48191ab4d04c4208037d9">
+  <img src="https://chatgpt.com/s/m_6a1afc5a87d48191ab4d04c4208037d9" alt="Zen's GitHub" width="100%">
+</a>
 
 <br><br>
 
-# 𝖅𝖊𝖓
+<img src="https://i.pinimg.com/originals/48/3d/64/483d64fd9bd864adce791c2ab52769b9.gif" width="100%" alt="Black hole animation">
 
-### 𝖘𝖈𝖗𝖎𝖕𝖙𝖘 • 𝖙𝖔𝖔𝖑𝖘 • 𝖊𝖝𝖕𝖊𝖗𝖎𝖒𝖊𝖓𝖙𝖘
+<br><br>
 
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=superstandarts&style=for-the-badge&color=red)
-![Followers](https://img.shields.io/github/followers/superstandarts?style=for-the-badge&color=red)
-![Stars](https://img.shields.io/github/stars/superstandarts?style=for-the-badge&color=red)
-![Status](https://img.shields.io/badge/status-recording-red?style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://i.pinimg.com/originals/0d/cc/71/0dcc7193d247d8a5875ecec86986c628.gif" width="760">
-
-</div>
-
----
-
-## 🕷️ About me
+# `ZEN'S GITHUB`
 
 ```txt
-[REC] SYSTEM ONLINE
-[+] User: Zen
-[+] GitHub: superstandarts
-[+] Status: learning, building and experimenting
-[+] Focus: scripts, terminal projects, websites and tools
-[+] Mode: creative / random / underground
+[ ACCESS GRANTED ]
+[ SYSTEM ONLINE ]
+[ USER: ZEN ]
+[ STATUS: BUILDING ]
 ```
 
-I create random scripts, terminal experiments, websites, visual projects and small tools.
+![Profile Views](https://komarev.com/ghpvc/?username=superstandarts&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
+![GitHub](https://img.shields.io/badge/GITHUB-superstandarts-black?style=for-the-badge&logo=github)
+![Discord](https://img.shields.io/badge/DISCORD-7mey-white?style=for-the-badge&logo=discord&logoColor=black)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-black?style=for-the-badge)
 
-Most of my projects are made for learning, testing ideas and building a better GitHub portfolio.
+</div>
 
 ---
 
-## 🌐 Socials
+<div align="center">
+
+<img src="https://i.pinimg.com/736x/f5/09/48/f509480f0cf4f1ff8400554969f7858c.jpg" width="720" alt="Terminal hands aesthetic">
+
+</div>
+
+---
+
+# `> whoami`
+
+```txt
+name        : Zen
+alias       : CRX / 7mey
+github      : superstandarts
+discord     : 7mey
+status      : online
+theme       : black / white / terminal
+focus       : tools, interfaces, automation, desktop apps
+```
+
+I build dark, minimal and futuristic tools with a terminal-inspired identity.
+
+Most of my projects follow this style:
+
+```txt
+clean interface
+dark panels
+white text
+system tools
+automation
+custom dashboards
+plugins
+local AI
+developer utilities
+```
+
+---
+
+# `> current_project`
+
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/cd/28/af/cd28afaca9fcdf0160ec25bd6e0026e8.gif" width="600" alt="Black and white anime wind gif">
+
+</div>
+
+```txt
+ZEN MENU
+```
+
+A Windows utility hub built with Python, CustomTkinter, plugins, local AI, soundboard, system tools, dashboard widgets and automation.
+
+```txt
+[ MODULES ]
+- Dashboard
+- Setup Wizard
+- Command Palette
+- Global Search
+- Plugin Store
+- ZENAI
+- Soundboard
+- FFmpeg Tools
+- GitHub Tools
+- EXE Builder
+- Macro Builder
+- Flow Builder
+- Text Tools
+- Game Overlay
+- Theme Preview
+```
+
+---
+
+# `> stack`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows)
+![Vercel](https://img.shields.io/badge/Vercel-white?style=for-the-badge&logo=vercel&logoColor=black)
+
+</div>
+
+---
+
+# `> tools_i_build`
+
+```txt
+desktop apps
+automation panels
+custom launchers
+plugin systems
+developer dashboards
+discord tools
+spotify integrations
+file organizers
+system cleaners
+readme generators
+windows utilities
+```
+
+---
+
+# `> aesthetic`
+
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/76/3f/28/763f28b3e3d13e2e6fbb47e0dbb09200.gif" width="650" alt="Terminal couple gif">
+
+</div>
+
+```txt
+black background
+white text
+terminal font
+clean layout
+minimal icons
+cyber interface
+old internet feeling
+futuristic windows tools
+```
+
+---
+
+# `> github_stats`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=superstandarts&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superstandarts&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff">
+
+</div>
+
+---
+
+# `> activity`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=superstandarts&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub streak">
+
+</div>
+
+---
+
+# `> connect`
 
 <div align="center">
 
 <a href="https://github.com/superstandarts">
-  <img src="https://img.shields.io/badge/GitHub-superstandarts-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/xyphanctinusultrazaliextremus/">
-  <img src="https://img.shields.io/badge/Instagram-xyphanctinusultrazaliextremus-000000?style=for-the-badge&logo=instagram&logoColor=red">
+  <img src="https://img.shields.io/badge/GitHub-superstandarts-black?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://steamcommunity.com/id/hokurary">
-  <img src="https://img.shields.io/badge/Steam-hokurary-000000?style=for-the-badge&logo=steam&logoColor=white">
+  <img src="https://img.shields.io/badge/Steam-hokurary-white?style=for-the-badge&logo=steam&logoColor=black">
 </a>
 
 <a href="https://www.roblox.com/users/5583806069/profile">
-  <img src="https://img.shields.io/badge/Roblox-Profile-000000?style=for-the-badge&logo=roblox&logoColor=white">
+  <img src="https://img.shields.io/badge/Roblox-profile-black?style=for-the-badge&logo=roblox">
 </a>
 
-<img src="https://img.shields.io/badge/Discord-7mey-000000?style=for-the-badge&logo=discord&logoColor=red">
+<a href="https://www.instagram.com/xyphanctinusultrazaliextremus/">
+  <img src="https://img.shields.io/badge/Instagram-profile-white?style=for-the-badge&logo=instagram&logoColor=black">
+</a>
 
 </div>
 
 ---
 
-## 🧰 Tech Stack
+# `> terminal`
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,ts,nextjs,nodejs,git,github,vscode" />
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-| Project | Description |
-| --- | --- |
-| [crx-OS](https://github.com/superstandarts/crx-OS) | Hacker simulator / terminal visual experiment |
-| [ZEN MENU](https://github.com/superstandarts/ZEN-ULTIMATE-MENU) | Toolkit, Zen menu with a lot of tools |
-| More soon... | New scripts, tools and experiments coming soon |
-
----
-
-## 🧪 Current Focus
+```bash
+git clone https://github.com/superstandarts/zen-menu
+cd zen-menu
+python main.py
+```
 
 ```txt
-> learning Python
-> building terminal tools
-> creating websites
-> improving GitHub projects
-> experimenting with visual interfaces
+[ ZEN MENU ]
+[ BUILDING TOOLS ]
+[ SYSTEM ONLINE ]
 ```
 
 ---
 
-<img src="https://i.pinimg.com/originals/ee/be/0f/eebe0fda3b23eb6a4d6eed5f80abff04.gif" width="400">
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/48/3d/64/483d64fd9bd864adce791c2ab52769b9.gif" width="720" alt="Black hole animation">
+
+<br><br>
 
 ```txt
-SYSTEM STATUS: ONLINE
-RECORDING: TRUE
-ACCESS: GRANTED
+┌──────────────────────────────────────────┐
+│                                          │
+│              THANKS FOR VISITING          │
+│                                          │
+│              ZEN / CRX PROFILE            │
+│                                          │
+│              [ SESSION CLOSED ]           │
+│                                          │
+└──────────────────────────────────────────┘
 ```
 
 <br>
 
-### 𝖈𝖔𝖉𝖊 • 𝖇𝖚𝖎𝖑𝖉 • 𝖊𝖝𝖕𝖊𝖗𝖎𝖒𝖊𝖓𝖙
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer">
 
 </div>
-
-zen.dev

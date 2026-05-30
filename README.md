@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/ee/be/0f/eebe0fda3b23eb6a4d6eed5f80abff04.gif" width="120">
-
 <br>
 
 <img src="https://i.pinimg.com/originals/fc/16/87/fc1687241e0c4bf3d58f95f33d752635.gif" width="520">
@@ -108,6 +106,8 @@ Most of my projects are made for learning, testing ideas and building a better G
 ```
 
 ---
+
+<img src="https://i.pinimg.com/originals/ee/be/0f/eebe0fda3b23eb6a4d6eed5f80abff04.gif" width="400">
 
 ```txt
 SYSTEM STATUS: ONLINE

@@ -6,7 +6,7 @@
   Example: github.com/superstandarts/superstandarts
 -->
 
-<a href="https://chatgpt.com/s/m_6a1afc5a87d48191ab4d04c4208037d9">
+<a href="[https://chatgpt.com/s/m_6a1afc5a87d48191ab4d04c4208037d9](https://chatgpt.com/backend-api/estuary/content?id=file_00000000cd98720e9265802133fe6793&ts=494487&p=fsns&cid=1&sig=992149cc37a720eb0cc8a7a25cd9e9d62782d1213037f4910c469567d0f42ae7&v=0)">
   <img src="https://chatgpt.com/s/m_6a1afc5a87d48191ab4d04c4208037d9" alt="Zen's GitHub" width="100%">
 </a>
 

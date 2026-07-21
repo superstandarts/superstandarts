@@ -75,29 +75,10 @@ developer utilities
 </div>
 
 ```txt
-ZEN MENU
+null
 ```
 
-A Windows utility hub built with Python, CustomTkinter, plugins, local AI, soundboard, system tools, dashboard widgets and automation.
-
-```txt
-[ MODULES ]
-- Dashboard
-- Setup Wizard
-- Command Palette
-- Global Search
-- Plugin Store
-- ZENAI
-- Soundboard
-- FFmpeg Tools
-- GitHub Tools
-- EXE Builder
-- Macro Builder
-- Flow Builder
-- Text Tools
-- Game Overlay
-- Theme Preview
-```
+Im currently not in any project, feel free to send a message.
 
 ---
 
@@ -194,12 +175,6 @@ futuristic windows tools
 ---
 
 # `> terminal`
-
-```bash
-git clone https://github.com/superstandarts/zen-menu
-cd zen-menu
-python main.py
-```
 
 ```txt
 [ ZEN MENU ]

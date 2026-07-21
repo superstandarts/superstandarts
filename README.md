@@ -21,7 +21,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=superstandarts&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
 ![GitHub](https://img.shields.io/badge/GITHUB-superstandarts-black?style=for-the-badge&logo=github)
-![Discord](https://img.shields.io/badge/DISCORD-7mey-white?style=for-the-badge&logo=discord&logoColor=black)
+![Discord](https://img.shields.io/badge/DISCORD-abuttive-white?style=for-the-badge&logo=discord&logoColor=black)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-black?style=for-the-badge)
 
 </div>
@@ -40,9 +40,9 @@
 
 ```txt
 name        : Zen
-alias       : CRX / 7mey
+alias       : CRX / abuttive
 github      : superstandarts
-discord     : 7mey
+discord     : abuttive
 status      : online
 theme       : black / white / terminal
 focus       : tools, interfaces, automation, desktop apps
